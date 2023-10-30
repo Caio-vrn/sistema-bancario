@@ -1,4 +1,4 @@
--projeto realizado com node.js-
+-projeto realizado com node.js e express.js-
 
 olá, bem vindo ao meu projeto de um sistema bancario com as seguintes funções:
 
@@ -8,7 +8,7 @@ olá, bem vindo ao meu projeto de um sistema bancario com as seguintes funções
 
 -atualizar dados
 
--deletar conta 
+-deletar conta
 
 -depositar valor
 
